@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://yamanSoul:123321@devconnector-cxcg5.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "ca348d6c6d157f43dd32",
+    "githubSecret": "8e68c8e6f9d3a19c7b081df10118c063d80f513c"
+  }
+  
